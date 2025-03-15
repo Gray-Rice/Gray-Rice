@@ -1,3 +1,5 @@
+# 💫 About Me:
+Passionate student with foundational knowledge in Computer Science and hands-on experience gained through academic projects Demonstrates strong teamwork, problem-solving, and time-management skills. Prepared to start career and make meaningful contributions with commitment and drive.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-sankar-a76435289) 
